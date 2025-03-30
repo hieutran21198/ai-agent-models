@@ -38,7 +38,7 @@ AI Agent Models offers:
 
 There is example configuration that I used for config neovim.
 
-1. Deadly simple autocompletion for Neovim. Which is not depended on `cmp`.
+1. Deadly simple autocompletion for Neovim. Which is not based on `cmp`.
 
 ```lua
 require('bropilot').setup({
@@ -228,3 +228,4 @@ For chating purpose.
       `Codecompanion.nvim` in Neovim.
 - [x] Implemented!
 - [x] Yay Release!!!
+- [ ] Include more configuration examples
